@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>História de Cristiano Ronaldo</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            text-align: center;
+            background-color: #333;
+            color: white;
+            padding: 20px 0;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        section {
+            margin: 20px 0;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>História de Cristiano Ronaldo</h1>
+    </header>
+
+    <section>
+        <h2>Infância e Início da Carreira</h2>
+        <p>
+            Cristiano Ronaldo nasceu em Funchal, Madeira, Portugal, em 5 de fevereiro de 1985. Desde jovem, mostrou um grande talento para o futebol, ingressando na academia do Sporting de Lisboa.
+        </p>
+        <img src="cristiano_infancia.jpg" alt="Cristiano Ronaldo na infância">
+    </section>
+
+    <section>
+        <h2>Carreira no Manchester United</h2>
+        <p>
+            Ronaldo transferiu-se para o Manchester United em 2003, onde se tornou uma estrela mundial. Durante sua estadia no clube inglês, venceu diversos títulos, incluindo a Liga dos Campeões.
+        </p>
+        <img src="cristiano_manchester_united.jpg" alt="Cristiano Ronaldo no Manchester United">
+    </section>
+
+    <section>
+        <h2>Real Madrid e Sucesso Continuado</h2>
+        <p>
+            Em 2009, Ronaldo mudou-se para o Real Madrid por uma transferência recorde na época. No clube espanhol, ele conquistou inúmeros títulos, incluindo mais quatro Ligas dos Campeões.
+        </p>
+        <img src="cristiano_real_madrid.jpg" alt="Cristiano Ronaldo no Real Madrid">
+    </section>
+
+    <section>
+        <h2>Retorno ao Manchester United</h2>
+        <p>
+            Em 2021, Cristiano Ronaldo fez um retorno emocionante ao Manchester United, sendo recebido com entusiasmo pelos fãs. Sua presença continuou a ser impactante no cenário do futebol.
+        </p>
+        <img src="cristiano_manchester_united_return.jpg" alt="Cristiano Ronaldo no retorno ao Manchester United">
+    </section>
+
+    <footer>
+        <p>&copy; 2024 História de Cristiano Ronaldo. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
